@@ -1,5 +1,5 @@
 img {
- height:180px;   
+ height:180px;
 }
 
 h1{
@@ -9,12 +9,12 @@ h1{
 }
 
 body{
- text-align:center;   
+ text-align:center;
 }
 
 input {
  font-size:12px;
- 
+
 }
 
 
@@ -28,6 +28,7 @@ button {
     font-size: 14px;
     font-family: 'Space Mono', monospace;
     margin-top:3px;
+    background-color: black;
 }
 
 div {
